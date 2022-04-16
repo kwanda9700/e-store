@@ -4,5 +4,5 @@
 # Preview
 To see this a live deploy of this project
 
-  * [E-STORE](https://kwandasilekwa-store.netlify.app/)
+  * [E-STORE](https://kwandasilekwa-e-store.netlify.app/)
 
