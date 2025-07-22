@@ -26,17 +26,17 @@ To see this a live deploy of this project
 2. Open index.html in your browser to start browsing the site.
 e-store/
 
-├── css/         # Stylesheets
-├── images/      # Image assets
-├── js/          # JavaScript files
-├── index.html   # Homepage
-├── products.html
-├── cart.html
-├── login.html
-├── register.html
-├── contact.html
-├── about.html
-└── README.md
+├── css/ # Stylesheets
+├── images/ # Image assets
+├── js/ # JavaScript files
+├── index.html # Homepage
+├── products.html # Product listing page
+├── cart.html # Shopping cart page
+├── login.html # User login page
+├── register.html # User registration page
+├── contact.html # Contact page
+├── about.html # About page
+└── README.md # Project documentation
 
 
 Future Enhancements
