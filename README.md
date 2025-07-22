@@ -22,3 +22,34 @@ To see this a live deploy of this project
    ```bash
    git clone https://github.com/kwanda9700/e-store.git
    cd e-store
+   
+2. Open index.html in your browser to start browsing the site.
+e-store/
+├── css/         # Stylesheets
+├── images/      # Image assets
+├── js/          # JavaScript files
+├── index.html   # Homepage
+├── products.html
+├── cart.html
+├── login.html
+├── register.html
+├── contact.html
+├── about.html
+└── README.md
+
+Future Enhancements
+
+    Integrate backend for user authentication and order management
+
+    Add database support for products and users
+
+    Implement payment gateway integration
+
+License
+
+MIT
+
+
+Save that as `README.md` and commit.
+
+---
