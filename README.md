@@ -26,42 +26,24 @@ To see this a live deploy of this project
 2. Open index.html in your browser to start browsing the site.
 e-store/
 
-├── css/ # Stylesheets
+  ├── css/ # Stylesheets
 
-├── images/ # Image assets
+  ├── images/ # Image assets
 
-├── js/ # JavaScript files
+  ├── js/ # JavaScript files
 
-├── index.html # Homepage
+  ├── index.html # Homepage
 
-├── products.html # Product listing page
+  ├── products.html # Product listing page
 
-├── cart.html # Shopping cart page
+  ├── cart.html # Shopping cart page
 
-├── login.html # User login page
+  ├── login.html # User login page
 
-├── register.html # User registration page
+  ├── register.html # User registration page
 
-├── contact.html # Contact page
+  ├── contact.html # Contact page
 
-├── about.html # About page
+  ├── about.html # About page
 
-└── README.md # Project documentation
-
-
-Future Enhancements
-
-    Integrate backend for user authentication and order management
-
-    Add database support for products and users
-
-    Implement payment gateway integration
-
-License
-
-MIT
-
-
-Save that as `README.md` and commit.
-
----
+  └── README.md # Project documentation
