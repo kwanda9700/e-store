@@ -25,6 +25,7 @@ To see this a live deploy of this project
    
 2. Open index.html in your browser to start browsing the site.
 e-store/
+
 ├── css/         # Stylesheets
 ├── images/      # Image assets
 ├── js/          # JavaScript files
@@ -36,6 +37,7 @@ e-store/
 ├── contact.html
 ├── about.html
 └── README.md
+
 
 Future Enhancements
 
