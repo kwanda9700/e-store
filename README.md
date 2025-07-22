@@ -27,7 +27,6 @@ To see this a live deploy of this project
 e-store/
 
 ├── css/ # Stylesheets
-
 ├── images/ # Image assets
 ├── js/ # JavaScript files
 ├── index.html # Homepage
